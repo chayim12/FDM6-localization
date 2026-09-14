@@ -1059,12 +1059,32 @@ msgid "Add download"
 msgstr "ဒေါင်းလုပ်ထည့်ပါ"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "ပြဿနာကို တင်ပြရန်"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "ပယ်ဖျက်"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1077,6 +1097,10 @@ msgstr "အိုကေ"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "ဒေါင်းလုပ်"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1148,6 +1172,10 @@ msgstr "ဖိုင်အမည်တွင် တရားမဝင်သည�
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "ပယ်ဖျက်"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2276,6 +2304,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "အိုကေ"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "ဘထ္ထရီ အားနည်း"
@@ -2652,6 +2689,10 @@ msgid "Name"
 msgstr "အမည်"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "ပမာဏ"
 
@@ -2687,6 +2728,10 @@ msgstr "ပြီးဆုံး"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "အမည်"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 #, fuzzy
 msgctxt "FilesTree_V2|"
@@ -4032,17 +4077,25 @@ msgid "Hide developer options"
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "ထည့်သွင်းထားသည့် Add-on များ မရှိပါ"
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "ဖိုင်မှ Add-on ကို ထည့်သွင်းပါ"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "%1 add-on အကြောင်း ပိုမို သိရှိရန်"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4153,11 +4206,6 @@ msgstr "ဖယ်ရှားပါ"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "အသစ်တင်နေ..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "ဗားရှင်း၊ %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4924,6 +4972,10 @@ msgstr "ခရုနည်းလမ်း"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "YouTube ဒေါင်းလုပ်များ မရနိုင်ပါ"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5971,6 +6023,10 @@ msgstr "သိုလှောင်မှု၊ %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "ပမာဏ၊ %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

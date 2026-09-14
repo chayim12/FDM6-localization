@@ -1064,12 +1064,32 @@ msgid "Add download"
 msgstr "Додај преузимање"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "Пријави проблем"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "Откажи"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1082,6 +1102,10 @@ msgstr "У реду"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "Преузми"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1152,6 +1176,10 @@ msgstr "Назив датотеке садржи неважеће знакове
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "Откажи"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2280,6 +2308,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "У реду"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "Батерија је скоро празна"
@@ -2662,6 +2699,10 @@ msgid "Name"
 msgstr "Име"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "Величина"
 
@@ -2697,6 +2738,10 @@ msgstr "Завршено"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "Име"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 #, fuzzy
 msgctxt "FilesTree_V2|"
@@ -4052,17 +4097,25 @@ msgid "Hide developer options"
 msgstr "Сакриј опције за програмере"
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "Нема инсталираних додатака."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "Инсталирај додатак из датотеке"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "Сазнајте више о %1 додацима"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4172,11 +4225,6 @@ msgstr "Уклони"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "Ажурирање..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "Верзија: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4945,6 +4993,10 @@ msgstr "ПУЖ РЕЖИМ"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "YouTube преузимања нису доступна"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5991,6 +6043,10 @@ msgstr "Простор на диску: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "Величина: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

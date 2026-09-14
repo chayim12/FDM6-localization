@@ -1044,12 +1044,32 @@ msgid "Add download"
 msgstr "İndirme ekle"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "Sorun bildir"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "İptal"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1062,6 +1082,10 @@ msgstr "Tamam"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "İndir"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1129,6 +1153,10 @@ msgstr "Dosya adı geçersiz karakterler içeriyor"
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "İptal"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2243,6 +2271,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "Tamam"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "Düşük pil"
@@ -2618,6 +2655,10 @@ msgid "Name"
 msgstr "Ad"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "Boyut"
 
@@ -2652,6 +2693,10 @@ msgstr "Tamamlandı"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "Ad"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 msgctxt "FilesTree_V2|"
 msgid "Priority"
@@ -3987,17 +4032,25 @@ msgid "Hide developer options"
 msgstr "Geliştirici seçeneklerini gizle"
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "Yüklü eklentiler yok."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "Eklentiyi dosyadan yükle"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "%1 eklentileri hakkında daha fazla bilgi edinin"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4107,11 +4160,6 @@ msgstr "Kaldır"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "Güncelleniyor..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "Sürüm: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4880,6 +4928,10 @@ msgstr "SALYANGOZ MODU"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "YouTube indirmeleri kullanılamıyor"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5920,6 +5972,10 @@ msgstr "Disk alanı: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "Boyut: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "TuneAndAddDownloadPageHeader|"
 msgid "New file"

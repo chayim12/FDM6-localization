@@ -1066,12 +1066,32 @@ msgid "Add download"
 msgstr "ڈاؤن لوڈ شامل کریں"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "مسئلے کی اطلاع دیں"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "منسوخ کریں"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1084,6 +1104,10 @@ msgstr "ٹھیک ہے"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "ڈاؤن لوڈ"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1154,6 +1178,10 @@ msgstr "فائل کے نام میں غیر موزوں حروف شامل ہیں"
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "منسوخ کریں"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2280,6 +2308,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "ٹھیک ہے"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "بیٹری کم ہے"
@@ -2662,6 +2699,10 @@ msgid "Name"
 msgstr "نام"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "سائز"
 
@@ -2697,6 +2738,10 @@ msgstr "مکمل"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "نام"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 #, fuzzy
 msgctxt "FilesTree_V2|"
@@ -4050,17 +4095,25 @@ msgid "Hide developer options"
 msgstr "ڈویلپر آپشنز چھپائیں"
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "کوئی انسٹال کردہ ایڈ آنز نہیں ہیں۔"
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "فائل سے ایڈ-آن انسٹال کریں"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "%1 ایڈ آنز کے بارے میں مزید جانیں"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4170,11 +4223,6 @@ msgstr "ہٹائیں"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "اپ ڈیٹ کیا جا رہا ہے..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "ورژن: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4944,6 +4992,10 @@ msgstr "اسنیل موڈ"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "یوٹیوب ڈاؤن لوڈز دستیاب نہیں ہیں"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5996,6 +6048,10 @@ msgstr "ڈسک پر جگہ: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "سائز: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

@@ -1071,12 +1071,32 @@ msgid "Add download"
 msgstr "Letöltés hozzáadása"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "Probléma jelentése"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "Mégse"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1089,6 +1109,10 @@ msgstr "Rendben"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "Letöltés"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1160,6 +1184,10 @@ msgstr "A fájlnév érvénytelen karaktereket tartalmaz"
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "Mégse"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2293,6 +2321,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "Rendben"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "Alacsony töltöttségű akkumulátor"
@@ -2675,6 +2712,10 @@ msgid "Name"
 msgstr "Név"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "Méret"
 
@@ -2710,6 +2751,10 @@ msgstr "Befejezve"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "Név"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 #, fuzzy
 msgctxt "FilesTree_V2|"
@@ -4068,17 +4113,25 @@ msgid "Hide developer options"
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "Nincsenek telepített kiegészítők."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "Kiegészítő telepítése fájlból"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "További információk a(z) %1 kiegészítőkről"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4188,11 +4241,6 @@ msgstr "Törlés"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "Frissítés..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "Verzió: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4960,6 +5008,10 @@ msgstr "CSIGA MÓD"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "A YouTube letöltések nem érhetők el"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -6010,6 +6062,10 @@ msgstr "Lemezterület: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "Méret: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

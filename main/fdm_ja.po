@@ -1035,12 +1035,32 @@ msgid "Add download"
 msgstr "ダウンロードを追加"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "問題の報告"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "キャンセル"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1053,6 +1073,10 @@ msgstr "OK"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "ダウンロード"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1120,6 +1144,10 @@ msgstr "ファイル名に無効な文字が含まれています"
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "キャンセル"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2223,6 +2251,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "OK"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "バッテリーが少なくなっています"
@@ -2598,6 +2635,10 @@ msgid "Name"
 msgstr "名前"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "サイズ"
 
@@ -2632,6 +2673,10 @@ msgstr "完了"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "名前"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 msgctxt "FilesTree_V2|"
 msgid "Priority"
@@ -3956,17 +4001,25 @@ msgid "Hide developer options"
 msgstr "開発者向けオプションを非表示にする"
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "インストールされているアドオンはありません。"
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "ファイルからアドオンをインストール"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "%1 アドオンの詳細を確認する"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4076,11 +4129,6 @@ msgstr "削除"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "更新しています..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "バージョン %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4846,6 +4894,10 @@ msgstr "カタツムリモード"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "YouTube のダウンロードをは利用できません"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5880,6 +5932,10 @@ msgstr "ディスクの空き: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "サイズ: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "TuneAndAddDownloadPageHeader|"
 msgid "New file"

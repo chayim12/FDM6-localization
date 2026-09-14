@@ -1050,12 +1050,32 @@ msgid "Add download"
 msgstr "Adaugă descărcare"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "Raportează o problemă"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "Anulează"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1068,6 +1088,10 @@ msgstr "OK"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "Descarcă"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1135,6 +1159,10 @@ msgstr "Numele fișierului conține caractere nevalide"
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "Anulează"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2257,6 +2285,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "OK"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "Baterie scăzută"
@@ -2632,6 +2669,10 @@ msgid "Name"
 msgstr "Nume"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "Dimensiune"
 
@@ -2666,6 +2707,10 @@ msgstr "Finalizat"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "Nume"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 msgctxt "FilesTree_V2|"
 msgid "Priority"
@@ -4008,17 +4053,25 @@ msgid "Hide developer options"
 msgstr "Ascunde opțiunile pentru dezvoltatori"
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "Nu există suplimente instalate."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "Instalați suplimentul din fișier"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "Aflați mai multe despre %1 suplimente"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4128,11 +4181,6 @@ msgstr "Elimină"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "Se actualizează..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "Versiune: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4900,6 +4948,10 @@ msgstr "MODUL LENT"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "Descărcările YouTube nu sunt disponibile"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5941,6 +5993,10 @@ msgstr "Spațiu pe disc: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "Mărime: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "TuneAndAddDownloadPageHeader|"
 msgid "New file"

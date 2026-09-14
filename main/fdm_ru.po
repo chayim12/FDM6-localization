@@ -1064,12 +1064,32 @@ msgid "Add download"
 msgstr "Добавить загрузку"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr "Для скачивания видео требуется наличие дополнения"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr "Установите совместимое с ФДМ дополнение для скачивания этого видео."
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr "Открыть дополнения"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr "Попробуйте скачать снова после установки дополнения."
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "Сообщить о проблеме"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "Отмена"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr "Скачать позже"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1082,6 +1102,10 @@ msgstr "ОК"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "Скачать"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr "Скачать позже"
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1152,6 +1176,10 @@ msgstr "Имя файла содержит недопустимые символ
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "Отмена"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr "Скачать позже"
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2281,6 +2309,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "ОК"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr "не установлено"
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr "Скачать дополнение с %1"
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "Низкий уровень заряда"
@@ -2663,6 +2700,10 @@ msgid "Name"
 msgstr "Имя"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr "Фильтровать по имени..."
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "Размер"
 
@@ -2698,6 +2739,10 @@ msgstr "Завершено"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "Имя"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr "Фильтровать по имени..."
 
 #, fuzzy
 msgctxt "FilesTree_V2|"
@@ -4054,17 +4099,25 @@ msgid "Hide developer options"
 msgstr "Скрыть опции разработчика"
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "Не найдены установленные дополнения."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr "Скачали .fda файл? Установите дополнение из него."
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "Установить дополнение из файла"
+msgid "Install from file"
+msgstr "Установить из файла"
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "Узнать больше о дополнениях %1"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr "Нужна помощь в установке?"
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr "Обратиться в поддержку."
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4174,11 +4227,6 @@ msgstr "Удалить"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "Обновление…"
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "Версия: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4944,6 +4992,10 @@ msgstr "РЕЖИМ УЛИТКИ"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "Загрузки с YouTube недоступны"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr "Для скачивания видео требуется наличие дополнения"
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5993,6 +6045,10 @@ msgstr "Место на диске: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "Размер: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr "Скачать позже"
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

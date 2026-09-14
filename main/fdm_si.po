@@ -1063,12 +1063,32 @@ msgid "Add download"
 msgstr "බාගත එකතු කරන්න"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "ගැටළු වාර්ථා කරන්න"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "අවලංගු කරන්න"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1081,6 +1101,10 @@ msgstr "හරි"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "බාගත කිරීම"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1152,6 +1176,10 @@ msgstr "ගොනු නාමයේ අවලංගු අක්ෂර අඩ�
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "අවලංගු කරන්න"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2279,6 +2307,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "හරි"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "බැටරි ධාරිතාවය අඩු වී ඇත"
@@ -2661,6 +2698,10 @@ msgid "Name"
 msgstr "නම"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "ප්‍රමාණය"
 
@@ -2696,6 +2737,10 @@ msgstr "සම්පුර්ණ කර ඇත"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "නම"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 #, fuzzy
 msgctxt "FilesTree_V2|"
@@ -4047,17 +4092,25 @@ msgid "Hide developer options"
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "ස්ථාපනය කරන ලද ඇඩෝන නොමැත."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "ගොනුවෙන් ඇඩෝන ස්ථාපනය කරන්න"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "%1 ඇඩෝන ගැන වැඩිදුර දැනගන්න"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4167,11 +4220,6 @@ msgstr "ඉවත් කරන්න"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "යාවත්කාලීන කිරීම..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "අනුවාදය: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4940,6 +4988,10 @@ msgstr "SNAIL MODE"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "යූ ටියුබ් බාගත කිරීම් ලබා ගත නොහැක"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5989,6 +6041,10 @@ msgstr "තැටියේ ඉඩ: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "ප්‍රමාණය: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

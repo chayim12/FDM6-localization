@@ -1066,12 +1066,32 @@ msgid "Add download"
 msgstr "Tambahkan unduhan"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "Laporkan masalah"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "Batalkan"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1084,6 +1104,10 @@ msgstr "OK"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "Unduh"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1154,6 +1178,10 @@ msgstr "Nama berkas berisi karakter yang salah"
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "Batalkan"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2283,6 +2311,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "BAIK"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "Baterai lemah"
@@ -2665,6 +2702,10 @@ msgid "Name"
 msgstr "Nama"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "Ukuran"
 
@@ -2700,6 +2741,10 @@ msgstr "Berhasil"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "Nama"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 #, fuzzy
 msgctxt "FilesTree_V2|"
@@ -4045,17 +4090,25 @@ msgid "Hide developer options"
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "Tidak terdapat add-ons terpasang."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "Pasang add-on dari berkas"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "Pelajari lebih lanjut tentang add-on %1"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4165,11 +4218,6 @@ msgstr "Hilangkan"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "Memperbarui..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "Versi: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4938,6 +4986,10 @@ msgstr "MODE SIPUT"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "Unduhan YouTube tidak tersedia"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5989,6 +6041,10 @@ msgstr "Ruang penyimpanan: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "Ukuran: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

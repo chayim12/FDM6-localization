@@ -1032,12 +1032,32 @@ msgid "Add download"
 msgstr "Προσθήκη κατεβάσετε"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "Άκυρο"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1050,6 +1070,10 @@ msgstr "OK"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "Λήψη"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1121,6 +1145,10 @@ msgstr ""
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "Άκυρο"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2229,6 +2257,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "OK"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr ""
@@ -2605,6 +2642,10 @@ msgid "Name"
 msgstr "Όνομα"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "Μέγεθος"
 
@@ -2640,6 +2681,10 @@ msgstr "Ολοκληρώθηκε"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "Όνομα"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 #, fuzzy
 msgctxt "FilesTree_V2|"
@@ -3975,16 +4020,24 @@ msgid "Hide developer options"
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
+msgid "Downloaded the .fda file? Install the add-on from it."
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
+msgid "Install from file"
 msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
 msgstr ""
 
 msgctxt "PluginsPage|"
@@ -4094,11 +4147,6 @@ msgstr "Κατάργηση"
 
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
-msgstr ""
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
 msgstr ""
 
 msgctxt "PluginsViewItem|"
@@ -4859,6 +4907,10 @@ msgstr "Σαλιγκάρι λειτουργία"
 
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
 msgstr ""
 
 msgctxt "QObject|"
@@ -5899,6 +5951,10 @@ msgstr ""
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "Μέγεθος: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

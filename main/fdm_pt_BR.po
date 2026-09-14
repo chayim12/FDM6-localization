@@ -1051,12 +1051,32 @@ msgid "Add download"
 msgstr "Adicionar download"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "Relatar problema"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "Cancelar"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1069,6 +1089,10 @@ msgstr "OK"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "Baixar"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1136,6 +1160,10 @@ msgstr "O nome do arquivo contém caracteres inválidos"
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "Cancelar"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2253,6 +2281,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "OK"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "Bateria fraca"
@@ -2628,6 +2665,10 @@ msgid "Name"
 msgstr "Nome"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "Tamanho"
 
@@ -2662,6 +2703,10 @@ msgstr "Concluído"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "Nome"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 msgctxt "FilesTree_V2|"
 msgid "Priority"
@@ -4004,17 +4049,25 @@ msgid "Hide developer options"
 msgstr "Ocultar opções do desenvolvedor"
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "Não há complementos instalados."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "Instalar complemento do arquivo"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "Saiba mais sobre os complementos do %1"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4124,11 +4177,6 @@ msgstr "Remover"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "Atualizando..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "Versão: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4896,6 +4944,10 @@ msgstr "MODO CARACOL"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "Os downloads do YouTube não estão disponíveis"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5936,6 +5988,10 @@ msgstr "Espaço em disco: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "Tamanho: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "TuneAndAddDownloadPageHeader|"
 msgid "New file"

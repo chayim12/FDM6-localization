@@ -1057,12 +1057,32 @@ msgid "Add download"
 msgstr "添加下载"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "报告问题"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "取消"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1075,6 +1095,10 @@ msgstr "确定"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "下载"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1146,6 +1170,10 @@ msgstr "文件名包含非法字符"
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "取消"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2262,6 +2290,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "确定"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "电池电量低"
@@ -2644,6 +2681,10 @@ msgid "Name"
 msgstr "名称"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "大小"
 
@@ -2679,6 +2720,10 @@ msgstr "已完成"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "名称"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 #, fuzzy
 msgctxt "FilesTree_V2|"
@@ -4022,17 +4067,25 @@ msgid "Hide developer options"
 msgstr "隐藏开发者选项"
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "没有已安装的扩展。"
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "从文件安装扩展"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "了解更多关于%1扩展的内容"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4142,11 +4195,6 @@ msgstr "移除"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "正在更新..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "版本：%1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4910,6 +4958,10 @@ msgstr "慢速模式"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "Youtube 下载不可用"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5954,6 +6006,10 @@ msgstr "磁盘空间：%1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "大小：%1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

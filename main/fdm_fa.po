@@ -1060,12 +1060,32 @@ msgid "Add download"
 msgstr "افزودن دانلود"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "گزارش مشکل"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "انصراف"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1078,6 +1098,10 @@ msgstr "تأیید"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "دانلود"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1149,6 +1173,10 @@ msgstr "نام فایل دارای کاراکترهای غیر معتبر است
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "انصراف"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2277,6 +2305,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "تأیید"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "باتری ضعیف"
@@ -2659,6 +2696,10 @@ msgid "Name"
 msgstr "نام"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "حجم"
 
@@ -2694,6 +2735,10 @@ msgstr "تمام شده‌است"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "نام"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 #, fuzzy
 msgctxt "FilesTree_V2|"
@@ -4040,17 +4085,25 @@ msgid "Hide developer options"
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "افزونه نصب شده ای وجود ندارد."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "نصب افزونه از فایل"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "اطلاعات بیشتر در مورد افزونه‌های %1"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4160,11 +4213,6 @@ msgstr "حذف"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "در حال بروزرسانی..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "نسخه: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4933,6 +4981,10 @@ msgstr "حالت حلزونی"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "دانلودهای یوتیوب در دسترس نیستند"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5981,6 +6033,10 @@ msgstr "فضای دیسک: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "حجم: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

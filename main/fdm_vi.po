@@ -1068,12 +1068,32 @@ msgid "Add download"
 msgstr "Thêm tải xuống"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "Báo cáo vấn đề"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "Hủy"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1086,6 +1106,10 @@ msgstr "Đồng ý"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "Tải xuống"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1157,6 +1181,10 @@ msgstr "Tên tệp chứa kí tự đặc biệt"
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "Hủy"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2284,6 +2312,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "Đồng ý"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "Pin yếu"
@@ -2666,6 +2703,10 @@ msgid "Name"
 msgstr "Tên"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "Kích thước"
 
@@ -2701,6 +2742,10 @@ msgstr "Đã hoàn thành"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "Tên"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 msgctxt "FilesTree_V2|"
 msgid "Priority"
@@ -4055,17 +4100,25 @@ msgid "Hide developer options"
 msgstr "Ẩn tùy chọn nhà phát triển"
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "Không có tiện ích nào được cài đặt."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "Cài đặt tiện ích từ tệp"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "Tìm hiểu thêm về tiện ích %1"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4175,11 +4228,6 @@ msgstr "Loại bỏ"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "Đang cập nhật..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "Phiên bản: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4948,6 +4996,10 @@ msgstr "CHẾ ĐỘ ỐC SÊN"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "Tải xuống YouTube không khả dụng"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5995,6 +6047,10 @@ msgstr "Dung lượng đĩa: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "Kích thước: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 #, fuzzy
 msgctxt "TuneAndAddDownloadPageHeader|"

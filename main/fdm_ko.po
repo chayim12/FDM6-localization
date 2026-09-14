@@ -1035,12 +1035,32 @@ msgid "Add download"
 msgstr "다운로드 추가"
 
 msgctxt "BuildDownloadDialog|"
+msgid "Video downloads require an add-on"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Install the compatible add‑on for FDM to download this video."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Open Add-ons"
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
+msgid "Try this download again after installing the add-on."
+msgstr ""
+
+msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
 msgstr "문제 보고"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
 msgstr "취소"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadDialog|"
 msgid "Download"
@@ -1053,6 +1073,10 @@ msgstr "확인"
 msgctxt "BuildDownloadPage|"
 msgid "Download"
 msgstr "다운로드"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
@@ -1120,6 +1144,10 @@ msgstr "파일 이름에 잘못된 문자가 포함되어 있습니다"
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
 msgstr "취소"
+
+msgctxt "ButtonsBlock|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
@@ -2223,6 +2251,15 @@ msgctxt "EditTagDialog|"
 msgid "OK"
 msgstr "확인"
 
+msgctxt "ElephantAddonNotInstalled|"
+msgid "not installed"
+msgstr ""
+
+#, qt-format
+msgctxt "ElephantAddonNotInstalled|"
+msgid "Download the addon at %1"
+msgstr ""
+
 msgctxt "EnvTools|"
 msgid "Low battery"
 msgstr "배터리 부족"
@@ -2598,6 +2635,10 @@ msgid "Name"
 msgstr "이름"
 
 msgctxt "FilesTreeHeader_V2|"
+msgid "Filter by name..."
+msgstr ""
+
+msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
 msgstr "크기"
 
@@ -2632,6 +2673,10 @@ msgstr "완료"
 msgctxt "FilesTree_V2|"
 msgid "Name"
 msgstr "이름"
+
+msgctxt "FilesTree_V2|"
+msgid "Filter by name..."
+msgstr ""
 
 msgctxt "FilesTree_V2|"
 msgid "Priority"
@@ -3957,17 +4002,25 @@ msgid "Hide developer options"
 msgstr "개발자 옵션 숨기기"
 
 msgctxt "PluginsPage|"
-msgid "There are no installed add-ons."
-msgstr "설치된 추가 기능이 없습니다."
+msgid "Downloaded the .fda file? Install the add-on from it."
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install add-on from file"
-msgstr "파일에서 추가 기능 설치"
+msgid "Install from file"
+msgstr ""
 
 #, qt-format
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
 msgstr "%1 추가 기능에 대해 자세히 알아보기"
+
+msgctxt "PluginsPage|"
+msgid "Need help installing?"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Contact support."
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Install"
@@ -4077,11 +4130,6 @@ msgstr "제거"
 msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "업데이트 중..."
-
-#, qt-format
-msgctxt "PluginsViewItem|"
-msgid "Version: %1"
-msgstr "버전: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -4847,6 +4895,10 @@ msgstr "달팽이 모드"
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
 msgstr "YouTube 다운로드를 사용할 수 없습니다"
+
+msgctxt "QObject|"
+msgid "Video downloads require an add-on"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Files were modified"
@@ -5881,6 +5933,10 @@ msgstr "디스크 공간: %1"
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
 msgstr "크기: %1"
+
+msgctxt "TuneAndAddDownloadPage|"
+msgid "Download later"
+msgstr ""
 
 msgctxt "TuneAndAddDownloadPageHeader|"
 msgid "New file"
